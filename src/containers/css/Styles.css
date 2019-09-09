@@ -1,0 +1,31 @@
+.box { 
+    width: auto; 
+    height: auto; 
+    border: 50px; 
+    margin: 50px;
+    margin-bottom: 0px; 
+}
+
+.endPage { 
+    width: auto; 
+    height: auto; 
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.titulo {
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    color: grey;
+}
+
+.titulo-center {
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    color: grey;
+}
+
+hr {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
