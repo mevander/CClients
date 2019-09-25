@@ -1,2 +1,2 @@
 # CClients
- Projeto base para avaliações de conhecimento da KaBuM!
+ Projeto base para avaliações de conhecimento em React.js
